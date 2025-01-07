@@ -2,7 +2,7 @@
 
 This is a simple Spring Boot application that demonstrates basic CRUD operations with a RESTful API.
 
-## Technologies Used
+## Technologies
 
 - Java 17
 - Spring Boot 3.2.x
